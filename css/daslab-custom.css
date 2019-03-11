@@ -1,0 +1,167 @@
+.container-image-sided {
+    background: url('../img/corn_row_robot.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    
+  }
+
+  .person-div{
+    -webkit-box-shadow: 0 8px 6px -6px black;
+    -moz-box-shadow: 0 8px 6px -6px black;
+         box-shadow: 0 8px 6px -6px black;
+  }
+
+  .team-padding{
+
+    padding:10px !important;
+
+  }
+
+  .content-section-heading h2{
+    color: white;
+    text-shadow: 0px 0px 12px black;
+  }
+
+  .caption:hover{
+    background-color: rgba(20, 105, 14, 0.9) !important;
+  }
+
+  section{
+    border-bottom:solid;
+    border-top:solid;
+    border-width: 10px;
+    border-color:#4a4a4a;
+  }
+
+  #sidebar-wrapper{
+    background: #021319;
+    border-left: solid;
+    border-left-width:5px;
+    border-left-color: #98d24e;
+    box-shadow: -5px 0px 16px #000000;
+
+  }
+
+.icon-network{
+  background-image: url("../img/network_1.png")  no-repeat center center fixed;
+}
+
+.icon-coding{
+  background-image: url("../img/coding.png")  no-repeat center center fixed;
+}
+
+
+.icon-3d-printer{
+  background-image: url("../img/3d-printer.png")  no-repeat center center fixed;
+}
+
+.icon-monitoring{
+  background-image: url("../img/monitoring.png")  no-repeat center center fixed;
+}
+
+
+  .service-icon{
+    color: #252525 !important;
+    background: #151515;
+  }
+
+
+
+  .service-icon:hover{
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+
+  }
+
+  .bg-primary{
+    background-color: #272727!important;
+  }
+
+  .icon{
+    margin-top: -11px;
+    margin-left: -5px;
+  }
+
+  .social-link{
+    background-color: #00962c !important;
+    font-size: 120%;
+    font-weight: 900;
+  }
+
+
+
+  section#about{
+    background-color: #d8d8d8;
+  }
+
+  .timeline>li{
+    margin-bottom:-35px !important;
+  }
+  .timeline-image img{
+    width:100%;
+    margin-top:-6px;
+  }
+
+  .timeline-image{
+    background-color: #272727 !important;
+    border-color:#737373 !important;
+    
+    box-shadow: 0px 0px 16px #000000;
+  }
+
+
+  section#contact{
+    padding:0px;
+  }
+
+  .bg-primary-publications{
+    background-color:#e0e0e0 !important; 
+    padding: 8%;
+  }
+
+  .resume-date{
+    width:35%;
+  }
+
+  .text-primary{
+    color: black !important;
+    font-weight: 500;
+  }
+
+
+  .authors{
+    background: url("../img/writer.png") no-repeat center center fixed;
+    width: 40px;
+  }
+
+
+  p>a{
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+    color: #e0e0e0;
+    background-color: #969696;
+    padding: 2px 5px;
+    font-size: 105%;
+    font-weight: 700;
+    margin: 0 5px;
+    -webkit-box-shadow: 0 1px 3px 0px black;
+    -moz-box-shadow: 0 1px 3px 0px black;
+    box-shadow: 0 1px 3px 0px black;;
+    border-radius:10px;
+  }
+
+  p>a:hover{
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+    color: #308054;
+    background-color: #cdffce;
+    text-decoration: none;
+  }
